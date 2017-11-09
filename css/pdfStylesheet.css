@@ -1,0 +1,28 @@
+
+body,h1,h2,h3,h4,h5,h6 {
+ 	font-family: "Raleway", Arial, Helvetica, sans-serif
+}
+
+body{
+    background-color: #fff;
+}
+
+
+
+h1{
+	text-align:center;
+}
+
+img{
+	max-width:300px;
+}
+
+img.logo{
+	width:150px;
+	height:auto;
+}
+
+table.personalInfo{
+	width:90%;
+}
+
